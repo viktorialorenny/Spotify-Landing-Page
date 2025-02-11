@@ -16,3 +16,5 @@ JavaScript
 # Objetivo do projeto: 
 
 Explorar e aplicar habilidades de desenvolvimento web e design, criando uma página única que represente uma fusão de gosto pessoal com funcionalidades práticas e visualmente agradáveis.
+
+![LandingPage](https://github.com/user-attachments/assets/9948cd36-71a5-42a9-817e-b0cf11da6b2e)
